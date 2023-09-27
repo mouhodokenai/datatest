@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class StockExchangeDB {
     // Блок объявления констант
     public static final String NAME_USER = "root";
-    public static final String PASSWORD = "MA58sh62.";
+    public static final String PASSWORD = "парольчик";
     public static final String URL = "jdbc:mysql://localhost:3306/hospital?serverTimezone=UTC";
     public static final String DB_Driver = "com.mysql.cj.jdbc.Driver";
     public static Connection connection;
